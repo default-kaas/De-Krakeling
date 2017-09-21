@@ -1,0 +1,41 @@
+body {
+    background-color: #AAAAAA;
+}
+
+
+div {
+    width: 390px;
+    border: 2px solid black;
+    padding: 25px;
+    margin: 2px;
+}
+
+div2 {
+    width: 390px;
+    border: 2px solid black;
+    padding: 25px;
+    margin: 2px;
+    float: left;
+}
+
+div3 {
+    width: 390px;
+    border: 2px solid black;
+    padding: 25px;
+    margin: 2px;
+    float: left;
+}
+
+div4 {
+    width: 390px;
+    border: 2px solid black;
+    padding: 25px;
+    margin: 2px;
+}
+
+div5 {
+    width: 390px;
+    border: 2px solid black;
+    padding: 25px;
+    margin: 2px;
+}
